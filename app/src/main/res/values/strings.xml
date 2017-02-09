@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PostApiTask</string>
+    <string name="str_please_wait">Fetching Orders... Please wait</string>
+</resources>
